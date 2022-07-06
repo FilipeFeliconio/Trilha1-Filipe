@@ -11,7 +11,7 @@
 #### 1.1 Git
 > Controle de versões
 
-O Git é um controle de versão de arquivos. Também organiza os arquivos para um desenvolvimento em conjunto sem que as alterações sejam sobrescritas ou perdidas.
+O Git é um controle de versão de arquivos. Também organiza os arquivos para um desenvolvimento em conjunto sem que as alterações sejam sobrescritas ou perdidas.  
 
 Comandos extremamente utilizados
 ```sh
@@ -23,14 +23,15 @@ git push
 git pull
 ```
 A lista completa e com os parâmetros de cada comando pode ser encontrada em:
-[Comandos Git](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
+[Comandos Git](https://gist.github.com/leocomelli/2545add34e4fec21ec16)  
 
-[Este artigo](https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04) me trouxe uma fácil compreensão de GitFlow
+[Este artigo](https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04) me trouxe uma fácil compreensão de GitFlow  
+
 [Exercício interativo LearningGitBranch](https://learngitbranching.js.org/?locale=pt_BR)
 
 
 #### 1.2 Markdown
-É uma linguagem de marcação frequentemente usada para formatar arquivos README e escrever mensagens em fóruns.
+É uma linguagem de marcação frequentemente usada para formatar arquivos README e escrever mensagens em fóruns.  
 
 [Documentação](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md#whatismarkdown)
 
@@ -39,7 +40,8 @@ A lista completa e com os parâmetros de cada comando pode ser encontrada em:
 
 Consiste em separar itens em um grid facilmente manipulável e responsivo.
 
-[Tutorial útil](https://www.origamid.com/projetos/css-grid-layout-guia-completo/)
+[Tutorial útil](https://www.origamid.com/projetos/css-grid-layout-guia-completo/)  
+
 [Exercício interativo GridGarden](https://cssgridgarden.com/)
 
 
@@ -47,5 +49,6 @@ Consiste em separar itens em um grid facilmente manipulável e responsivo.
 
 Separa em conteiners que podem ser manipulados e facilmente organizados, também responsivo.
 
-[Tutorial útil](https://www.origamid.com/curso/css-flexbox/)
+[Tutorial útil](https://www.origamid.com/curso/css-flexbox/)  
+
 [Exercício interativo FlexboxFroggy](https://flexboxfroggy.com/)
