@@ -14,11 +14,12 @@
 }
 
 section {
-    display: grid;
+    display: flex;
     height: 480px;
     width: 320px;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(6, 1fr);
+    justify-content: center;
 }
 
 .bg_keys {
@@ -42,6 +43,8 @@ section {
     grid-column: 1 / 5;
     font-size: 30px;
     padding-left: 10px;
+    max-width: 200px;
+    width: 100%;
 }
 
 .key {
