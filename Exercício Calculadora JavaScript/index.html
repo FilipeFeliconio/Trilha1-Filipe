@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+    <title>Calculadora</title>
+</head>
+
+<body>
+    <div class="container">
+
+        <section class="calculator">
+
+            <div class="bg_keys">
+
+                <input disabled id="input-value" class="display">
+
+                <button onclick="insertValues('/')" class="key operator">/</button>
+                <button onclick="insertValues('*')" class="key operator">X</button>
+                <button onclick="insertValues('-')" class="key operator">-</button>
+                <button onclick="insertValues('+')" class="key operator">+</button>
+
+                <button onclick="insertValues('7')" class="key number">7</button>
+                <button onclick="insertValues('8')" class="key number">8</button>
+                <button onclick="insertValues('9')" class="key number">9</button>
+
+                <button onclick="clearInput()" class="key reset">AC</button>
+                
+                <button onclick="insertValues('4')" class="key number">4</button>
+                <button onclick="insertValues('5')" class="key number">5</button>
+                <button onclick="insertValues('6')" class="key number">6</button>
+                
+
+                <button onclick="insertValues('1')" class="key number">1</button>
+                <button onclick="insertValues('2')" class="key number">2</button>
+                <button onclick="insertValues('3')" class="key number">3</button>
+
+                <button onclick="calculate()" class="key equal">=</button>
+
+                <button onclick="insertValues('0')" class="key number zero">0</button>
+                <button onclick="insertValues('.')" class="key dot">.</button>
+
+            </div>
+        </section>
+    </div>
+
+    <script type="text/javascript" src="script.js"></script>
+</body>
+</html>
