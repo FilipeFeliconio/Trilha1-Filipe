@@ -13,7 +13,7 @@
 
 #### 1.1 Git
 
-> Controle de versões
+- Controle de versões
 
 O Git é um controle de versão de arquivos. Também organiza os arquivos para um desenvolvimento em conjunto sem que as alterações sejam sobrescritas ou perdidas.  
 
@@ -31,7 +31,7 @@ A lista completa e com os parâmetros de cada comando pode ser encontrada em:
 
 [Este artigo](https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04) me trouxe uma fácil compreensão de GitFlow  
 
-Exercício interativo [LearningGitBranch](https://learngitbranching.js.org/?locale=pt_BR)
+Exercício interativo: [LearningGitBranch](https://learngitbranching.js.org/?locale=pt_BR)
 
 [Tutorial](https://www.youtube.com/watch?v=kB5e-gTAl_s) completo de git e github de fácil compreensão
 
@@ -45,6 +45,8 @@ Exercício interativo [LearningGitBranch](https://learngitbranching.js.org/?loca
 
 #### 1.3 CSS
 
+Cascading Style Sheets (CSS) é uma linguagem de regras de estilo utilizada para aplicar estilo no conteúdo HTML. Definindo fontes, cores, tamanhos e posicionamento de cada elemento.
+
 - CSS Grid
 
 Consiste em separar itens em um grid facilmente manipulável e responsivo.
@@ -55,7 +57,7 @@ Exercício interativo: [GridGarden](https://cssgridgarden.com/)
 
 - CSS Flexbox
 
-Separa em conteiners que podem ser manipulados e facilmente organizados, também responsivo.
+Separa em conteiners que podem ser manipulados e facilmente organizados de forma dinâmica, também responsivo.
 
 [Tutorial útil](https://www.origamid.com/curso/css-flexbox/)  
 
@@ -64,7 +66,7 @@ Exercício interativo: [FlexboxFroggy](https://flexboxfroggy.com/)
 
 #### 1.4 JavaScript
 
-[To do]
+JavaScript é uma linguagem de programação que permite a implementação de itens complexos em páginas web, tornando possível que a página deixe de ser estática, fazendo com que o conteúdo se atualize dinamicamente.
 
 [Turorial útil](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
@@ -87,7 +89,15 @@ Conceitos importantes:
 
 #### 2.1 React
 
-React é uma biblioteca JavaScript focada em desenvolvimento front-end, sendo utilizado para construir User Interfaces.
+React é uma biblioteca JavaScript focada em desenvolvimento front-end, sendo utilizado para construir User Interfaces(UI). Tais UIs podem ser "quebradas" em diversos pedaços, chamados componentes, que:
+
+- Possibilita uma reutilização de código fácil e simples
+- Melhora a organização do código no geral
+- Consequentemente melhora a manutenibilidade
+- Reduz a complexidade
+
+> Deixo aqui registrado meu agradecimento ao Carlinhos
+> e sua [Palestra Excepcional](https://youtu.be/Bf471dYOdlw?t=1788)
 
 [Tutorial útil](https://pt-br.reactjs.org/tutorial/tutorial.htm)
 
@@ -95,20 +105,26 @@ React é uma biblioteca JavaScript focada em desenvolvimento front-end, sendo ut
 
 ### 2.2 Metodologias ágeis - Scrum
 
-[To do]
+Resumidamente, Scrum é um framework ágil focado no desenvolvimento, entrega e sustentação de produtos complexos. As tarefas são progressivamente realizadas a partir de Sprints que duram de uma a quatro semanas.
 
 [Meu resumo de cerimônias do Scrum](https://github.com/FilipeFeliconio/Trilha1-Filipe/blob/master/MetodologiasAgeis_Scrum.md)
 
 #### 2.3 NPM e Yarn
 
-[To do]
+> Antes de tudo é importante entender o que é Node.js:
+> Node basicamente é um ambiente de execução Javascript server-side
+> Mais detalhes [aqui](https://www.opus-software.com.br/node-js/)
+
+Node Package Manager (NPM) é um gerenciador de pacotes do node, como o nome já sugere, sendo uma plataforma aberta. Dessa forma, qualquer um pode criar um pacote (que resumidamente é um repositório Git), logo, existem pacotes para inúmeras funcionalidades e propósitos, desde simples até mesmo os mais complexos e específicos.
+
+Yarn é basicamente a mesma coisa que o NPM porém dizem ser mais fácil pelo seu uso mais dinâmico e facilitado.
 
 [Diferença entre NPM e Yarn](https://www.alura.com.br/artigos/npm-vs-yarn)
 
 
 #### 2.4 VTEX Overview
 
-[To do]
+VTEX é uma plataforma de E-commerce que possibilida o cadastro de estoque de produtos, transportadoras, carrinho de compras e entre outras funcionalidades comuns do e-commerce. Fornecendo API's para o desenvolvimento. [COMPLEMENTAR]
 
 #### 2.5 Metodologias ágeis
 
@@ -123,3 +139,11 @@ React é uma biblioteca JavaScript focada em desenvolvimento front-end, sendo ut
 - 2.6.1 API's VTEX
 
 [To do]
+
+-----
+
+### Módulo 3
+
+#### Figma
+
+
