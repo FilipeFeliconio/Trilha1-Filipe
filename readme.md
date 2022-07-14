@@ -2,13 +2,17 @@
 ### Uma breve síntese dos conteúdos abordados na trilha de estágio!
 --------
 ### Introdução
+
 - Clockfy: Registo de atividades
 - Tangerino: Registro de ponto
 - Slack: Canal de comunicação
 - Agenda: Reuniões e organização
 
+
 ### Módulo 1
+
 #### 1.1 Git
+
 > Controle de versões
 
 O Git é um controle de versão de arquivos. Também organiza os arquivos para um desenvolvimento em conjunto sem que as alterações sejam sobrescritas ou perdidas.  
@@ -33,32 +37,34 @@ Exercício interativo [LearningGitBranch](https://learngitbranching.js.org/?loca
 
 
 #### 1.2 Markdown
+
 É uma linguagem de marcação frequentemente usada para formatar arquivos README e escrever mensagens em fóruns.  
 
 [Documentação](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md#whatismarkdown)
 
+
 #### 1.3 CSS
-> CSS Grid
+
+- CSS Grid
 
 Consiste em separar itens em um grid facilmente manipulável e responsivo.
 
 [Tutorial útil](https://www.origamid.com/projetos/css-grid-layout-guia-completo/)  
 
-Exercício interativo [GridGarden](https://cssgridgarden.com/)
+Exercício interativo: [GridGarden](https://cssgridgarden.com/)
 
-
-> CSS Flexbox
+- CSS Flexbox
 
 Separa em conteiners que podem ser manipulados e facilmente organizados, também responsivo.
 
 [Tutorial útil](https://www.origamid.com/curso/css-flexbox/)  
 
-[Exercício interativo FlexboxFroggy](https://flexboxfroggy.com/)
+Exercício interativo: [FlexboxFroggy](https://flexboxfroggy.com/)
 
 
 #### 1.4 JavaScript
 
-aaaaaaaaaaaaaaa
+[To do]
 
 [Turorial útil](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
@@ -72,6 +78,8 @@ Conceitos importantes:
 
 [Desestruturação Javascript](https://www.alura.com.br/artigos/es6-desestruturando-objetos?gclid=CjwKCAjwt7SWBhAnEiwAx8ZLarlHl0-YUX9qfG8QzuVzqXW3kEr3iruZQATzjUkMo92wMTZjVe6BMhoCleIQAvD_BwE)
 
+[Função de ordem superior](https://bognarjunior.wordpress.com/tag/funcao-de-ordem-superior/)
+
 [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 
 ----------------------
@@ -79,12 +87,39 @@ Conceitos importantes:
 
 #### 2.1 React
 
-React é uma biblioteca JavaScript
+React é uma biblioteca JavaScript focada em desenvolvimento front-end, sendo utilizado para construir User Interfaces.
+
+[Tutorial útil](https://pt-br.reactjs.org/tutorial/tutorial.htm)
+
+[Playlist tutorial](https://www.youtube.com/playlist?list=PLXik_5Br-zO_47e0Zdjog8t2z76Fhlf9M)
 
 ### 2.2 Metodologias ágeis - Scrum
 
-(Definição de srcum)
+[To do]
+
+[Meu resumo de cerimônias do Scrum](https://github.com/FilipeFeliconio/Trilha1-Filipe/blob/master/MetodologiasAgeis_Scrum.md)
 
 #### 2.3 NPM e Yarn
 
+[To do]
+
 [Diferença entre NPM e Yarn](https://www.alura.com.br/artigos/npm-vs-yarn)
+
+
+#### 2.4 VTEX Overview
+
+[To do]
+
+#### 2.5 Metodologias ágeis
+
+[To do]
+
+#### 2.6 API's e Postman
+
+[To do]
+
+[Random user](https://randomuser.me/)
+
+- 2.6.1 API's VTEX
+
+[To do]

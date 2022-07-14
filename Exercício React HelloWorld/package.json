@@ -1,0 +1,12 @@
+{
+  "name": "react-helloworld",
+  "version": "1.0.0",
+  "description": "Exercício React trilha de estágio",
+  "main": "index.js",
+  "repository": "https://github.com/FilipeFeliconio/Trilha1-Filipe/tree/master/Exerc%C3%ADcio%20React%20HelloWorld/react-hello",
+  "author": "Filipe Feliconio",
+  "license": "MIT",
+  "dependencies": {
+    "reactjs-popup": "^2.0.5"
+  }
+}
