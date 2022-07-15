@@ -1,5 +1,5 @@
 # Documentação dos itens estudados
-### Uma breve síntese dos conteúdos abordados na trilha de estágio!
+## Uma breve síntese dos conteúdos abordados na trilha de estágio!
 --------
 ### Introdução
 
@@ -9,9 +9,9 @@
 - Agenda: Reuniões e organização
 
 
-### Módulo 1
+## Módulo 1
 
-#### 1.1 Git
+### 1.1 Git
 
 - Controle de versões
 
@@ -36,14 +36,14 @@ Exercício interativo: [LearningGitBranch](https://learngitbranching.js.org/?loc
 [Tutorial](https://www.youtube.com/watch?v=kB5e-gTAl_s) completo de git e github de fácil compreensão
 
 
-#### 1.2 Markdown
+### 1.2 Markdown
 
 É uma linguagem de marcação frequentemente usada para formatar arquivos README e escrever mensagens em fóruns.  
 
 [Documentação](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md#whatismarkdown)
 
 
-#### 1.3 CSS
+### 1.3 CSS
 
 Cascading Style Sheets (CSS) é uma linguagem de regras de estilo utilizada para aplicar estilo no conteúdo HTML. Definindo fontes, cores, tamanhos e posicionamento de cada elemento.
 
@@ -64,7 +64,7 @@ Separa em conteiners que podem ser manipulados e facilmente organizados de forma
 Exercício interativo: [FlexboxFroggy](https://flexboxfroggy.com/)
 
 
-#### 1.4 JavaScript
+### 1.4 JavaScript
 
 JavaScript é uma linguagem de programação que permite a implementação de itens complexos em páginas web, tornando possível que a página deixe de ser estática, fazendo com que o conteúdo se atualize dinamicamente.
 
@@ -85,9 +85,9 @@ Conceitos importantes:
 [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 
 ----------------------
-### Módulo 2
+## Módulo 2
 
-#### 2.1 React
+### 2.1 React
 
 React é uma biblioteca JavaScript focada em desenvolvimento front-end, sendo utilizado para construir User Interfaces(UI). Tais UIs podem ser "quebradas" em diversos pedaços, chamados componentes, que:
 
@@ -96,12 +96,14 @@ React é uma biblioteca JavaScript focada em desenvolvimento front-end, sendo ut
 - Consequentemente melhora a manutenibilidade
 - Reduz a complexidade
 
-> Deixo aqui registrado meu agradecimento ao Carlinhos
+> Deixo aqui registrado meu agradecimento ao Carlinhos  
 > e sua [Palestra Excepcional](https://youtu.be/Bf471dYOdlw?t=1788)
 
 [Tutorial útil](https://pt-br.reactjs.org/tutorial/tutorial.htm)
 
 [Playlist tutorial](https://www.youtube.com/playlist?list=PLXik_5Br-zO_47e0Zdjog8t2z76Fhlf9M)
+
+[Documentação JSX](https://pt-br.reactjs.org/docs/jsx-in-depth.html)
 
 ### 2.2 Metodologias ágeis - Scrum
 
@@ -109,10 +111,10 @@ Resumidamente, Scrum é um framework ágil focado no desenvolvimento, entrega e 
 
 [Meu resumo de cerimônias do Scrum](https://github.com/FilipeFeliconio/Trilha1-Filipe/blob/master/MetodologiasAgeis_Scrum.md)
 
-#### 2.3 NPM e Yarn
+### 2.3 NPM e Yarn
 
-> Antes de tudo é importante entender o que é Node.js:
-> Node basicamente é um ambiente de execução Javascript server-side
+> Antes de tudo é importante entender o que é Node.js:  
+> Node basicamente é um ambiente de execução Javascript server-side  
 > Mais detalhes [aqui](https://www.opus-software.com.br/node-js/)
 
 Node Package Manager (NPM) é um gerenciador de pacotes do node, como o nome já sugere, sendo uma plataforma aberta. Dessa forma, qualquer um pode criar um pacote (que resumidamente é um repositório Git), logo, existem pacotes para inúmeras funcionalidades e propósitos, desde simples até mesmo os mais complexos e específicos.
@@ -122,17 +124,25 @@ Yarn é basicamente a mesma coisa que o NPM porém dizem ser mais fácil pelo se
 [Diferença entre NPM e Yarn](https://www.alura.com.br/artigos/npm-vs-yarn)
 
 
-#### 2.4 VTEX Overview
+### 2.4 VTEX Overview
 
-VTEX é uma plataforma de E-commerce que possibilida o cadastro de estoque de produtos, transportadoras, carrinho de compras e entre outras funcionalidades comuns do e-commerce. Fornecendo API's para o desenvolvimento. [COMPLEMENTAR]
+VTEX é uma plataforma de E-commerce no modelo Software as a Service (SaaS) que possibilida o cadastro de estoque de produtos, integrar meios de pagamento, calcular frete, registrar várias transportadoras, carrinho de compras e entre outras funcionalidades comuns do E-commerce.
 
-#### 2.5 Metodologias ágeis
+### 2.5 Metodologias ágeis
 
-[To do]
+Para acelerar as entregas de um projeto as tarefas são divididas em partes para serem realizadas em ciclos. Gerando uma maior agilidade e entregas constantes. Existem vários métodos ágeis, dentre eles o Scrum que já foi tópico aqui e os principais métodos são:
 
-#### 2.6 API's e Postman
+- Scrum
+- Kanban
+- Lean
+- Safe
+- Smart
 
-[To do]
+Mais informações sobre metodos ágeis [aqui](https://www.lumis.com.br/a-lumis/blog/metodos-ageis.htm)
+
+### 2.6 API's e Postman
+
+Application Programming Interface (API) é [To do]
 
 [Random user](https://randomuser.me/)
 
@@ -142,8 +152,8 @@ VTEX é uma plataforma de E-commerce que possibilida o cadastro de estoque de pr
 
 -----
 
-### Módulo 3
+## Módulo 3
 
-#### Figma
+### Figma
 
 
